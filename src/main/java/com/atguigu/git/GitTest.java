@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("你好 git");
         System.out.println("你好 git2");
         System.out.println("你好 git3");
+        System.out.println("你好 git4");
     }
 }
